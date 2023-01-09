@@ -1,0 +1,6 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform_key
+s3backend.tf
